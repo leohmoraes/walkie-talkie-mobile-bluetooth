@@ -1,0 +1,10 @@
+{
+  "name": "WalkieTalkie PTT - Intercomunicador Offline",
+  "description": "Aplicativo de Walkie-Talkie e Intercomunicador em tempo real com botão Push-to-Talk (PTT), transmissão de voz direta ponto-a-ponto sem internet móvel, efeito de rádio, roger beep e suporte a Bluetooth.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
